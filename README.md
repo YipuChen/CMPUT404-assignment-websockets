@@ -55,7 +55,7 @@ POSSIBILITY OF SUCH DAMAGE.
 
 Contributors
 ============
-
+* Yipu Chen
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
